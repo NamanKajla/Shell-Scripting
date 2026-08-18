@@ -1,0 +1,4 @@
+This is my process logfile
+  PID TTY           TIME CMD
+33579 ttys002    0:00.23 /bin/zsh -il
+36780 ttys002    0:00.01 sh test.sh
